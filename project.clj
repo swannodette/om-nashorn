@@ -6,9 +6,9 @@
                  [org.clojure/clojurescript "1.7.170"]
                  [org.clojure/core.async "0.2.371"]
                  [org.omcljs/om "1.0.0-alpha22" :exclusions [cljsjs/react cljsjs/react-dom]]
-		 [cljsjs/react "0.14.3-0"]
-		 [cljsjs/react-dom "0.14.3-1"]
-		 [cljsjs/react-dom-server "0.14.3-0"]]
+                 [cljsjs/react "0.14.3-0"]
+                 [cljsjs/react-dom "0.14.3-1"]
+                 [cljsjs/react-dom-server "0.14.3-0"]]
 
   :plugins [[lein-cljsbuild "1.1.1"]]
 
